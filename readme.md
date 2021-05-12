@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaurya Pratap singh</h1>
-<h3 align="center">A passionate software developer from MNIT JAIPUR, India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">A passionate software developer and coding enthusiast from MNIT JAIPUR, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap), and Android dev
-developement in Flutter.
+- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap).
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/abhishekkumar1775/](https://github.com/abhishekkumar1775/)
@@ -14,14 +13,11 @@ developement in Flutter.
     <a href="https://www.facebook.com/shauryapratap.singh.3914207" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/shaurya-pratap-7298ab1a5" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/abhishekkumar1775/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
-    <a href="https://instagram.com/spsingh2157?igshid=o6xjzzdzcv1q" target="blank"><img align="center"
+    <a href="https://www.instagram.com/_abhishek_._kumar_/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
-            width="40" /></a>
-    <a href="https://mobile.twitter.com/SHAURYA127" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
             width="40" /></a>
 </p>
 
