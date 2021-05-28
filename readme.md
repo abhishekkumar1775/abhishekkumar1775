@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate software developer and coding enthusiast from MNIT JAIPUR, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap).
+<!-- - 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap). -->
+
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/abhishekkumar1775/](https://github.com/abhishekkumar1775/)
