@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/shauryapratap.singh.3914207" target="blank"><img align="center"
+<!--     <a href="https://www.facebook.com/shauryapratap.singh.3914207" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
-            width="40" /></a>
+            width="40" /></a> -->
     <a href="https://www.linkedin.com/in/abhishekkumar1775/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
@@ -66,5 +66,5 @@
     
 </p>
 
-[![shaurya pratap github stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar1775&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ABHISHEK KUMAR github stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar1775&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar1775&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
