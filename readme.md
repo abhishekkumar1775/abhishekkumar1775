@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at
 [https://github.com/abhishekkumar1775/](https://github.com/abhishekkumar1775/)
 
-- 📫 How to reach me, drop an email at **abhishek@tracebacks.com**
+- 📫 How to reach me, drop an email at **abhishekkumar260ak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
