@@ -8,6 +8,7 @@
 [https://github.com/abhishekkumar1775/](https://github.com/abhishekkumar1775/)
 
 - 📫 How to reach me, drop an email at **abhishekkumar260ak@gmail.com**
+- 📫 Linkedin **https://www.linkedin.com/in/abhishekkumar1775/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
